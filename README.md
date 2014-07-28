@@ -19,13 +19,13 @@ You may need to add **sudo** to run the command successfully.
 
 Run the following command inside your root project directory:
 
-\`\`\`
+```
 grunt
-\`\`\`
+```
 You can see the app running on this url: http://localhost:9001
 
 or you can also run
-\`\`\`
+```
 python -m SimpleHTTPServer
-\`\`\`
+```
 to see the app running on this url: http://localhost:8000
