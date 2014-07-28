@@ -10,9 +10,9 @@ Participated in an AngularJS Workshop hosted by ThoughtWorks and this project is
 ## Installation
 
 After downloading files, run the following command inside your root project directory to install node modules:
-\`\`\`
+```
 npm install
-\`\`\`
+```
 You may need to add **sudo** to run the command successfully.
 
 ## To run this app locally
